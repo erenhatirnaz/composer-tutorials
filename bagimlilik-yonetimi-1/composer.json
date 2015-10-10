@@ -1,0 +1,14 @@
+{
+    "name": "erenhatirnaz/composer-tutorials",
+    "description": "Import third-party library with composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eren Hatirnaz",
+            "email": "erenhatirnaz@hotmail.com.tr"
+        }
+    ],
+    "require": {
+        "katzgrau/klogger": "^1.0"
+    }
+}
