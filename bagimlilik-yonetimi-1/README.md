@@ -6,8 +6,7 @@ Kullanımı
 ==========
 ```sh
 $ git clone https://github.com/erenhatirnaz/composer-tutorials.git
-$ cd composer-tutorials
-$ cd bagimlilik-yonetimi-1
+$ cd composer-tutorials/bagimlilik-yonetimi-1
 $ composer install
 $ php index.php
 ```
