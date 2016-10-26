@@ -8,3 +8,7 @@ içeriyor.
   Üçüncü parti kütüphaneyi projeye dahil etme -
   [Kaynak Kodları](bagimlilik-yonetimi-1) - 
   [Blog Yazısı](http://wp.me/p14nDk-9B)
+2. PHP'de Composer ile Bağımlılık Yönetimi(2):
+  Kendi kütüphenimizi autoloading sistemine dahil etmek -
+  [Kaynak Kodları](bagimlilik-yonetimi-2) - 
+  [Blog Yazısı](http://wp.me/p14nDk-eM)
